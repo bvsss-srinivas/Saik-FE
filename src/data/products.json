@@ -1,0 +1,14 @@
+[
+  { "id": 1, "name": "Classic Men's Sneakers", "price": 59.99, "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=1200&auto=format&fit=crop", "description": "Comfortable everyday sneakers.", "category": "men", "isOffer": true },
+  { "id": 2, "name": "Women's Summer Dress", "price": 39.99, "image": "https://images.unsplash.com/photo-1520975916090-3105956dac38?q=80&w=1200&auto=format&fit=crop", "description": "Lightweight and stylish.", "category": "women", "isOffer": false },
+  { "id": 3, "name": "Wireless Headphones", "price": 89.99, "image": "https://images.unsplash.com/photo-1518444028785-8f9d3b2e1b87?q=80&w=1200&auto=format&fit=crop", "description": "Noise cancelling over-ear.", "category": "electronics", "isOffer": true },
+  { "id": 4, "name": "Smart Home Speaker", "price": 49.99, "image": "https://images.unsplash.com/photo-1585386959984-a4155223168f?q=80&w=1200&auto=format&fit=crop", "description": "Voice assistant built-in.", "category": "electronics", "isOffer": false },
+  { "id": 5, "name": "Ergonomic Office Chair", "price": 129.99, "image": "https://images.unsplash.com/photo-1582582621950-2dbc55a6edb1?q=80&w=1200&auto=format&fit=crop", "description": "Lumbar support and breathable mesh.", "category": "home", "isOffer": true },
+  { "id": 6, "name": "Men's Denim Jacket", "price": 69.99, "image": "https://images.unsplash.com/photo-1516826957135-700dedea698c?q=80&w=1200&auto=format&fit=crop", "description": "Classic fit denim jacket.", "category": "men", "isOffer": false },
+  { "id": 7, "name": "4K Action Camera", "price": 199.99, "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?q=80&w=1200&auto=format&fit=crop", "description": "Waterproof and rugged.", "category": "electronics", "isOffer": false },
+  { "id": 8, "name": "Home Ceramic Vase", "price": 24.99, "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?q=80&w=1200&auto=format&fit=crop", "description": "Minimal decorative vase.", "category": "home", "isOffer": false },
+  { "id": 9, "name": "Women's Running Shoes", "price": 74.99, "image": "https://images.unsplash.com/photo-1542291026-94b5c4e07b8b?q=80&w=1200&auto=format&fit=crop", "description": "Breathable and lightweight.", "category": "women", "isOffer": true },
+  { "id": 10, "name": "Cotton T-Shirt (Men)", "price": 19.99, "image": "https://images.unsplash.com/photo-1520975916090-3105956dac38?q=80&w=1200&auto=format&fit=crop", "description": "Soft and durable.", "category": "men", "isOffer": false }
+]
+
+

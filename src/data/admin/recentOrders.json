@@ -1,0 +1,5 @@
+[
+  { "orderId": "ORD1001", "customer": "Alice", "status": "Pending", "total": 99.99, "date": "2025-09-29" },
+  { "orderId": "ORD1002", "customer": "Bob", "status": "Shipped", "total": 149.49, "date": "2025-09-28" },
+  { "orderId": "ORD1003", "customer": "Charlie", "status": "Delivered", "total": 39.99, "date": "2025-09-25" }
+]

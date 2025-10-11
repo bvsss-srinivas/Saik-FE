@@ -1,0 +1,14 @@
+{
+  "totalSales": 12450.5,
+  "orders": 342,
+  "users": 1280,
+  "revenue": 12450.5,
+  "salesByMonth": [
+    { "month": "Jan", "value": 1200 },
+    { "month": "Feb", "value": 900 },
+    { "month": "Mar", "value": 1400 },
+    { "month": "Apr", "value": 2000 },
+    { "month": "May", "value": 1800 },
+    { "month": "Jun", "value": 2150 }
+  ]
+}
