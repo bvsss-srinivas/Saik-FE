@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 // Prefer build-time/runtime provided Vite env, fall back to the public IP used earlier
-const BACKEND_HOST = (import.meta?.env?.VITE_BACKEND_URL) || 'http://54.147.4.213:8024'
+const BACKEND_HOST = (import.meta?.env?.VITE_BACKEND_URL) || 'http://localhost:8024'
 const api = axios.create({
   baseURL: `${BACKEND_HOST}/api`,
 })
